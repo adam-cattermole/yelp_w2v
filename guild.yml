@@ -1,0 +1,5 @@
+yelp_w2v:
+  main: main
+  env:
+    DATA_PATH: /datadrive/yelp/yelp_review_full_csv
+    DEVICE: cpu
